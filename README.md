@@ -37,4 +37,24 @@ Foram criadas os seguintes micro-frontends:
 * Estatística
 * Feadback
 * QR Code
+  
 ## Login - Conta Utilizador
+
+## Destaques
+
+## Geolocalização
+
+## Produtos
+
+## Lista de Produtos
+
+## Serviço Noticias & Atualidades
+
+## Estatística
+
+## Feadback
+
+## QR Code
+
+
+# ARCHITECTURAL DECISION RECORDS (ADR)
