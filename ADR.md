@@ -27,24 +27,25 @@ As razões para esta decisão incluem:
 - **Flexibilidade:** Facilidade para adaptar e mudar partes da aplicação conforme necessário.
 
 ## Consequências
-A escolha por micro-frontends e MVVM deve resultar em uma APP mais modular e manejável. No entanto, esta abordagem pode aumentar a complexidade de integração e requerer um plano cuidadoso para garantir a consistência e compatibilidade entre os diferentes módulos. Será necessária uma boa coordenaçãopara gerir as dependências e interfaces entre os micro-frontends.
+A escolha por micro-frontends e MVVM deve resultar em uma APP mais modular e manejável. No entanto, esta abordagem pode aumentar a complexidade de integração e requerer um plano cuidado para garantir a consistência e compatibilidade entre os diferentes módulos. Será necessária uma boa coordenação para gerir as dependências e interfaces entre os micro-frontends.
 
-A gestão do projeto no GitHub permitirá colaboração e acompanhar o progresso. O repositório está estruturado para refletiras diferentes áreas do sistema, permitindo um desenvolvimento e revisão de código organizados.
+A gestão do projeto no GitHub permitirá colaboração e acompanhar o progresso. O repositório está estruturado para refletir as diferentes áreas do sistema, permitindo um desenvolvimento e revisão de código organizados.
 
-O controlo de progresso será visualizado através de um dashboard no GitHub, facilitando a identificação rápida de qualquer atraso ou problema no projeto.
+O controlo de progresso do trabalho será visualizado através de um mapa, facilitando a identificação rápida de qualquer atraso ou problema no projeto.
+![ProgressoTrabalho](https://github.com/PauloRTC/QRmeat/assets/162343860/d3a51146-1ed1-4c59-8fb8-14250328d68b)
 
 ## Detalhes Técnicos dos Micro-frontends
-Cada micro-frontend será desenvolvido com base nos critérios estabelecidos para maximizar a eficiência e eficácia do desenvolvimento:
+Cada micro-frontend tem por base os critérios estabelecidos para maximizar a eficiência e eficácia do desenvolvimento:
 
-- **Login - Conta do Utilizador:** Autenticação segura e gestão de perfil do utilizador.
-- **Destaques:** Apresentação de conteúdo em destaque, como promoções ou eventos.
-- **Geolocalização:** Serviços baseados na localização do utilizador para personalizar conteúdo e ofertas.
-- **Produtos:** Gestão detalhada de produtos, incluindo informações e disponibilidade.
-- **Lista de Produtos:** Visualização e gestão de listas de produtos, como cestas de compras ou wishlists.
-- **Serviço Noticias & Atualidades:** Integração com feeds de notícias para oferecer conteúdo atualizado referentes ao produto.
-- **Estatística:** Análise de dados do utilizador e utilização da APP para melhorar o serviço.
-- **Feedback:** Recolha e gestão de feedback dos utilizadores para melhorias contínuas.
-- **QR Code:** Funcionalidades para geração e leitura de QR Codes, integrando serviços como pagamentos ou identificação de produtos.
+- **Login - Conta do Utilizador:** Autenticação segura e gestão de perfil do utilizador. **Responsável: Carvalho**.
+- **Destaques:** Apresentação de conteúdo em destaque, como promoções ou eventos.**Responsável: Carvalho**.
+- **Geolocalização:** Serviços baseados na localização do utilizador para personalizar conteúdo e ofertas.**Responsável Tiago**.
+- **Produtos:** Gestão detalhada de produtos, incluindo informações e disponibilidade.**Responsável: Tiago**.
+- **Lista de Produtos:** Visualização e gestão de listas de produtos, como cestas de compras ou wishlists.**Responsável: Tiago**.
+- **Serviço Noticias & Atualidades:** Integração com feeds de notícias para oferecer conteúdo atualizado referentes ao produto.**Responsável: Tiago**.
+- **Estatística:** Análise de dados do utilizador e utilização da APP para melhorar o serviço. **Responsável: Carvalho**.
+- **Feedback:** Recolha e gestão de feedback dos utilizadores para melhorias contínuas.**Responsável: Carvalho**.
+- **QR Code:** Funcionalidades para geração e leitura de QR Codes, integrando serviços como pagamentos ou identificação de produtos.**Responsável: Carvalho**.
 
 ## Acompanhaemnto e Validação
 O sucesso das decisões tomadas será monitorizado através de análise de desempenho e feedback dos utilizadores. As métricas de sucesso incluirão velocidade de desenvolvimento, facilidade de manutenção, e satisfação do utilizador.
