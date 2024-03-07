@@ -20,3 +20,5 @@ Estimular uma arquitetura de back-end baseada em microserviços o que permite to
 
 ## Organização do Projeto no GitHub:
 O projeto é organizado num repositório do GitHub, onde é possível aos colaboradores acompanhar a evolução e contribuir para implementação da APP. A estrutura de diretórios no repositório é feita de forma a refletir as diferentes partes do sistema, como micro-frontends, componentes, e serviços de back-end.
+
+## Controlo do progresso do trabalho
