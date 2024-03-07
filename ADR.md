@@ -29,7 +29,7 @@ As razões para esta decisão incluem:
 ## Consequências
 A escolha por micro-frontends e MVVM deve resultar em uma APP mais modular e manejável. No entanto, esta abordagem pode aumentar a complexidade de integração e requerer um plano cuidado para garantir a consistência e compatibilidade entre os diferentes módulos. Será necessária uma boa coordenação para gerir as dependências e interfaces entre os micro-frontends.
 
-A gestão do projeto no GitHub permitirá colaboração e acompanhar o progresso. O repositório está estruturado para refletir as diferentes áreas do sistema, permitindo um desenvolvimento e revisão de código organizados.
+A gestão do projeto no GitHub permitirá colaboração e acompanhar o progresso de todos os envolvidos. O repositório está estruturado para refletir as diferentes áreas do sistema, permitindo um desenvolvimento e revisão de código organizados.
 
 O controlo de progresso do trabalho será visualizado através de um mapa, facilitando a identificação rápida de qualquer atraso ou problema no projeto.
 ![ProgressoTrabalho](https://github.com/PauloRTC/QRmeat/assets/162343860/d3a51146-1ed1-4c59-8fb8-14250328d68b)
@@ -52,4 +52,4 @@ O sucesso das decisões tomadas será monitorizado através de análise de desem
 
 ---
 
-**Nota:** A decisão deverá ser revista periodicamente para assegurar que continua alinhada com os objetivos do projeto e as necessidades das  partes interessadas. Mudanças introduzidas pelo docente, na tecnologia ou nas prioridades do projeto podem levar a revisões desta ADR. É importante manter a documentação atualizada para refletir o estado atual das decisões arquiteturais.
+**Nota:** A decisão deverá ser revista periodicamente para assegurar que continua alinhada com os objetivos do projeto e as necessidades das  partes interessadas. Mudanças introduzidas pelo docente ou novas prioridades do projeto podem levar a revisões desta ADR. É importante manter a documentação atualizada para refletir o estado atual das decisões arquiteturais.
