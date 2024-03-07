@@ -48,7 +48,7 @@ Cada micro-frontend tem por base os critérios estabelecidos para maximizar a ef
 - **QR Code:** Funcionalidades para geração e leitura de QR Codes, integrando serviços como pagamentos ou identificação de produtos.**Responsável: Carvalho**.
 
 ## Acompanhamento e Validação
-O sucesso das decisões tomadas será monitorizado através de análise de desempenho e feedback dos utilizadores. As métricas de sucesso incluirão velocidade de desenvolvimento, facilidade de manutenção, e satisfação do utilizador.
+A sucessão das decisões tomadas será monitorizado através de análise de desempenho e feedback dos utilizadores. As métricas de sucesso incluirão velocidade de desenvolvimento, facilidade de manutenção, e satisfação do utilizador.
 
 ---
 
