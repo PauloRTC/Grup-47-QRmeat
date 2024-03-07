@@ -1,60 +1,55 @@
-# Introdução
-##
-Projeto inserido na disciplina de Aplicações WEB.
+# ADR 1: Uso de Micro-frontends e MVVM no Projeto QRmeat
 
-Este projeto é constituído por um grupo de dois alunos: Paulo Carvalho Nº:62688 e Tiago Ferreira Nº:xxxx
+## Status
+Proposto
 
-## Projeto QRmeat
-Este projeto tem como objetivo criar uma arquitetura micro-frontends e padrão Model-View-ViewMode (MVVM) com base numa aplicação protótipo desenvolvido em Justinmind (QRmeat) cedido pelo docente. 
+## Decisores
+- Paulo Carvalho, Estudante Nº: 62688
+- Tiago Ferreira, Estudante Nº: xxxx
 
-### Arquitetura e tecnologia
-A arquitetura do projeto baseia-se em micro-frontends, uma abordagem que permite a construção de uma APP em funcionalidades independentes.
+## Data
+07-MAR-2024
 
-O front-end é construído sobre o padrão MVVM, promove a separação das lógicas de apresentação e negocio, facilitando assim a construção, a execução e a manutenção. Permite uma clara separação de responsabilidades no fornt-end em que diferentes equipas trabalham em diferentes partes da aplicação.
-O back-end é estruturado com base em microserviços que fornecem APIs (abrir QR Code, Geolocalização, etc) para integrar com as necessidades da APP.
+## Contexto
+Este Architectural Decision Records (ADR) é criado no contexto da disciplina de Aplicações WEB. Este projeto tem como objetivo criar uma arquitetura micro-frontends e padrão Model-View-ViewMode (MVVM) com base numa aplicação protótipo desenvolvido em Justinmind (QRmeat) cedido pelo docente.
 
-## Estrutura e Execução
+## Decisão
+Decidimos adotar uma arquitetura baseada em micro-frontends e o padrão MVVM para o desenvolvimento do projeto QRmeat. O projeto será organizado em módulos funcionais independentes, com cada micro-frontend representando uma parte distinta da funcionalidade da APP.
 
-Desenvolvimento harmonioso do front-end e back-end, definição clara da arquitetura, e estrutura das componentes do banco de dados. 
-Estimular uma arquitetura de back-end baseada em microserviços o que permite tornar a APP, escalável, mais flexível e com facilidade de integrar com diversos serviços e APIs.
+As razões para esta decisão incluem:
 
-## Organização do Projeto no GitHub:
-O projeto é organizado num repositório do GitHub, onde é possível aos colaboradores acompanhar a evolução e contribuir para implementação da APP. A estrutura de diretórios no repositório é feita de forma a refletir as diferentes partes do sistema, como micro-frontends, componentes, e serviços de back-end.
+- **Simplicidade:** Cada micro-frontend lida com sua própria lógica, simplificando a base de código.
+- **Responsabilidade Individual: ** Distribuição clara de responsabilidades, melhorando a manutenção.
+- **Reutilização:** Possibilidade de reutilizar componentes em diferentes partes da APP.
+- **Implementação Independente:** Capacidade de desenvolver, testar e implantar partes da aplicação de forma independente.
+- **Equipas Autônomas:** Possibilita que diferentes equipas trabalhem em diferentes partes da aplicação sem interferência.
+- **Serviços Verticais:** Integração com o backend estruturado como microserviços, facilitando a escalabilidade e flexibilidade.
+- **Flexibilidade:** Facilidade para adaptar e mudar partes da aplicação conforme necessário.
 
-## Controlo do progresso do trabalho
-![ProgressoTrabalho](https://github.com/PauloRTC/QRmeat/assets/162343860/1b33cb6d-5db0-44a2-a117-e45920f38da7)
+## Consequências
+A escolha por micro-frontends e MVVM deve resultar em uma APP mais modular e manejável. No entanto, esta abordagem pode aumentar a complexidade de integração e requerer um plano cuidado para garantir a consistência e compatibilidade entre os diferentes módulos. Será necessária uma boa coordenação para gerir as dependências e interfaces entre os micro-frontends.
 
-# Micro-fontend 
-Justificar a divisao das micro-frontend da APP de acordo com os seguintes critérios: Simplicidade, Responsabilidade individual, Reutilização, implementaçao independente, equipas autonômas, serviços verticais e flexibilidade
+A gestão do projeto no GitHub permitirá colaboração e acompanhar o progresso de todos os envolvidos. O repositório está estruturado para refletir as diferentes áreas do sistema, permitindo um desenvolvimento e revisão de código organizados.
 
-Foram criadas os seguintes micro-frontends: 
-* Login - Conta do Utilizador
-* Destaques
-* Geolocalização
-* Produtos
-* Lista de Produtos
-* Serviço Noticias & Atualidades
-* Estatística
-* Feadback
-* QR Code
-  
-## Login - Conta Utilizador
+O controlo de progresso do trabalho será visualizado através de um mapa, facilitando a identificação rápida de qualquer atraso ou problema no projeto.
+![ProgressoTrabalho](https://github.com/PauloRTC/QRmeat/assets/162343860/d3a51146-1ed1-4c59-8fb8-14250328d68b)
 
-## Destaques
+## Detalhes Técnicos dos Micro-frontends
+Cada micro-frontend tem por base os critérios estabelecidos para maximizar a eficiência e eficácia do desenvolvimento:
 
-## Geolocalização
+- **Login - Conta do Utilizador:** Autenticação segura e gestão de perfil do utilizador. **Responsável: Carvalho**.
+- **Destaques:** Apresentação de conteúdo em destaque, como promoções ou eventos.**Responsável: Carvalho**.
+- **Geolocalização:** Serviços baseados na localização do utilizador para personalizar conteúdo e ofertas.**Responsável Tiago**.
+- **Produtos:** Gestão detalhada de produtos, incluindo informações e disponibilidade.**Responsável: Tiago**.
+- **Lista de Produtos:** Visualização e gestão de listas de produtos, como cestas de compra.**Responsável: Tiago**.
+- **Serviço Noticias & Atualidades:** Integração com fluxos de notícias para oferecer conteúdo atualizado referentes ao produto.**Responsável: Tiago**.
+- **Estatística:** Análise de dados do utilizador e utilização da APP para melhorar o serviço. **Responsável: Carvalho**.
+- **Feedback:** Recolha e gestão de feedback dos utilizadores para melhorias contínuas.**Responsável: Carvalho**.
+- **QR Code:** Funcionalidades para geração e leitura de QR Codes, integrando serviços como pagamentos ou identificação de produtos.**Responsável: Carvalho**.
 
-## Produtos
+## Acompanhamento e Validação
+O sucesso das decisões tomadas será monitorizado através de análise de desempenho e feedback dos utilizadores. As métricas de sucesso incluirão velocidade de desenvolvimento, facilidade de manutenção, e satisfação do utilizador.
 
-## Lista de Produtos
+---
 
-## Serviço Noticias & Atualidades
-
-## Estatística
-
-## Feadback
-
-## QR Code
-
-
-# ARCHITECTURAL DECISION RECORDS (ADR)
+[!NOTE]**Nota:** A decisão deverá ser revista periodicamente para assegurar que continua alinhada com os objetivos do projeto e as necessidades das  partes interessadas. Mudanças introduzidas pelo docente ou novas prioridades do projeto podem levar a revisões desta ADR. É importante manter a documentação atualizada para refletir o estado atual das decisões arquiteturais.
