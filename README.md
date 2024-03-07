@@ -19,6 +19,7 @@ Promover um desenvolvimento harmonioso do front-end e back-end, definição clar
 Assim, estimular uma arquitetura de back-end baseada em microserviços o que permite tornar a APP, escalavel, mais flexivel e facilidade de integrar com diversos serviços e APIs.
 
 ## Organização do Projeto no GitHub:
-O projeto é organizado num repositório do GitHub, onde é possível acompanhar a evolução e contribuir para o código fonte. A estrutura de diretórios no repositório é provavelmente feita de forma a refletir as diferentes partes do sistema, como micro-frontends, componentes, e serviços de back-end.
+O projeto é organizado num repositório do GitHub, onde é possível aos colaboradores acompanhar a evolução e contribuir para implementaçao da APP. A estrutura de diretórios no repositório é feita de forma a refletir as diferentes partes do sistema, como micro-frontends, componentes, e serviços de back-end.
 
-O resumo aqui apresentado é baseado na interpretação da imagem, e poderia ser utilizado como um ponto de partida para uma apresentação mais detalhada ou documento de visão geral do projeto.
+## Controlo do progresso do trabalho
+de forma a manter uma monitorizaçao é criado uma tabela de controlo 
