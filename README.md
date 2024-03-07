@@ -28,5 +28,13 @@ O projeto é organizado num repositório do GitHub, onde é possível aos colabo
 Justificar a divisao das micro-frontend da APP de acordo com os seguintes critérios: Simplicidade, Responsabilidade individual, Reutilização, implementaçao independente, equipas autonômas, serviços verticais e flexibilidade
 
 Foram criadas os seguintes micro-frontends: 
-* Login
-# 
+* Login - Conta do Utilizador
+* Destaques
+* Geolocalização
+* Produtos
+* Lista de Produtos
+* Serviço Noticias & Atualidades
+* Estatística
+* Feadback
+* QR Code
+## Login - Conta Utilizador
