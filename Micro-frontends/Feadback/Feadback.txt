@@ -1,0 +1,3 @@
+ A possibilidade de escalar o sistema de feedback de maneira independente em resposta ao aumento de usuários ou requisitos específicos. 
+Permite também ajustes personalizados na interface e nas interações do sistema de feedback, oferecendo uma experiência otimizada para os 
+usuários quedesejam avaliar a qualidade da carne.
