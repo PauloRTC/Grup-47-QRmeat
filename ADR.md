@@ -11,7 +11,7 @@ Proposto
 07-MAR-2024
 
 ## Contexto
-Este ADR é criado no contexto da disciplina de Aplicações WEB, para a qual estamos desenvolvendo o projeto QRmeat. O objetivo é criar uma aplicação que siga uma arquitetura de micro-frontends e o padrão MVVM (Model-View-ViewModel), baseada num protótipo fornecido pelo docente.
+Este Architectural Decision Records (ADR) é criado no contexto da disciplina de Aplicações WEB. Este projeto tem como objetivo criar uma arquitetura micro-frontends e padrão Model-View-ViewMode (MVVM) com base numa aplicação protótipo desenvolvido em Justinmind (QRmeat) cedido pelo docente.
 
 ## Decisão
 Decidimos adotar uma arquitetura baseada em micro-frontends e o padrão MVVM para o desenvolvimento do projeto QRmeat. O projeto será organizado em módulos funcionais independentes, com cada micro-frontend representando uma parte distinta da funcionalidade da APP.
@@ -27,7 +27,7 @@ As razões para esta decisão incluem:
 - **Flexibilidade:** Facilidade para adaptar e mudar partes da aplicação conforme necessário.
 
 ## Consequências
-A escolha por micro-frontends e MVVM deve resultar em uma APP mais modular e manejável. No entanto, esta abordagem pode aumentar a complexidade de integração e requerer um planeamento cuidadoso para garantir a consistência e compatibilidade entre os diferentes módulos. Será necessária uma coordenação atenta para gerir as dependências e interfaces entre os micro-frontends.
+A escolha por micro-frontends e MVVM deve resultar em uma APP mais modular e manejável. No entanto, esta abordagem pode aumentar a complexidade de integração e requerer um plano cuidadoso para garantir a consistência e compatibilidade entre os diferentes módulos. Será necessária uma boa coordenaçãopara gerir as dependências e interfaces entre os micro-frontends.
 
 A gestão do projeto no GitHub permitirá colaboração e acompanhar o progresso. O repositório está estruturado para refletiras diferentes áreas do sistema, permitindo um desenvolvimento e revisão de código organizados.
 
