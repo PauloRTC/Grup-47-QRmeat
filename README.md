@@ -22,3 +22,5 @@ Estimular uma arquitetura de back-end baseada em microserviços o que permite to
 O projeto é organizado num repositório do GitHub, onde é possível aos colaboradores acompanhar a evolução e contribuir para implementação da APP. A estrutura de diretórios no repositório é feita de forma a refletir as diferentes partes do sistema, como micro-frontends, componentes, e serviços de back-end.
 
 ## Controlo do progresso do trabalho
+![ProgressoTrabalho](https://github.com/PauloRTC/QRmeat/assets/162343860/1b33cb6d-5db0-44a2-a117-e45920f38da7)
+
