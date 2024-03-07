@@ -1,0 +1,3 @@
+As estatísticas sobre qualidade do produto, presença de elementos químicos na carne e impacto ambiental podem ter 
+requisitos específicos e complexidades únicas. Ao implementar esta feature como um micro-frontend, é possível colocar 
+uma equipa isolada a tratar dos dados estatisticos de cada produto de maneira independente, sem interferir nas outras partes da aplicação.
