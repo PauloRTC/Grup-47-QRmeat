@@ -53,4 +53,4 @@ O sucesso das decisões tomadas será monitorizado através de análise de desem
 ---
 
 >[!NOTE]
->**Nota:** A decisão deverá ser revista periodicamente para assegurar que continua alinhada com os objetivos do projeto e as necessidades das  partes interessadas. Mudanças introduzidas pelo docente ou novas prioridades do projeto podem levar a revisões desta ADR. É importante manter a documentação atualizada para refletir o estado atual das decisões arquiteturais.
+>A decisão deverá ser revista periodicamente para assegurar que continua alinhada com os objetivos do projeto e as necessidades das  partes interessadas. Mudanças introduzidas pelo docente ou novas prioridades do projeto podem levar a revisões desta ADR. É importante manter a documentação atualizada para refletir o estado atual das decisões arquiteturais.
