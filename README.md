@@ -24,3 +24,9 @@ O projeto é organizado num repositório do GitHub, onde é possível aos colabo
 ## Controlo do progresso do trabalho
 ![ProgressoTrabalho](https://github.com/PauloRTC/QRmeat/assets/162343860/1b33cb6d-5db0-44a2-a117-e45920f38da7)
 
+# Micro-fontend 
+Justificar a divisao das micro-frontend da APP de acordo com os seguintes critérios: Simplicidade, Responsabilidade individual, Reutilização, implementaçao independente, equipas autonômas, serviços verticais e flexibilidade
+
+Foram criadas os seguintes micro-frontends: 
+* Login
+# 
