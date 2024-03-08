@@ -1,4 +1,4 @@
-  ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/387e920a-2e50-40da-a2a4-a9e71906e1ff)
+![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/8159e131-87cf-47f7-bf75-748dc1b7d47c)
 # Identificação das Micro-Frontends
 ## LOGIN/CONTA DO UTILIZADOR     &    SERVIÇO DE NOTICIAS E ATUALIZAÇÕES
 ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/cdbe47da-e498-4a86-8661-18372e9aebc1)
