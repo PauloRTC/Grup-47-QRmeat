@@ -2,6 +2,10 @@
 # Identificação das Micro-Frontends
 ## LOGIN/CONTA DO UTILIZADOR     &    SERVIÇO DE NOTICIAS E ATUALIZAÇÕES
 ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/cdbe47da-e498-4a86-8661-18372e9aebc1)
+- **LOGIN/CONTA DO UTILIZADOR:**
+Ao tratar o login e as informações da conta como um micro-frontend, é possível isolar aspectos
+de segurança, como autenticação e gerenciamento de sessões, tornando mais fácil monitorar e 
+atualizar essas funcionalidades de maneira independente
 ## ESTATÍSTICA    &    LISTA DE PRODUTOS 
 ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/e4707219-d5a8-451c-a18c-396f6b739ba4)
 ## DESTAQUES & GEOLOCALIZAÇÃO
