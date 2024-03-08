@@ -30,5 +30,11 @@ implementar como um micro-frontend facilita a integração e manutenção desta 
 em serviços de mapas e geolocalização podem operar de forma independente e personalizando de acordo com as necessidades específicas da aplicação.
 ## PRODUTO & FEEDBACK
 ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/d91bd3f0-2c7c-4eb1-a950-0b5b3ea24a53)
+- **PRODUTO:**
+O Produto é um bem qualitativo referente à melhor escolha de carne de para consumo humano de acordo com a sustentabilidade ecologica.
+- **FEEDBACK:**
+A possibilidade de escalar o sistema de feedback de maneira independente em resposta ao aumento de usuários ou requisitos específicos. 
+Permite também ajustes personalizados na interface e nas interações do sistema de feedback, oferecendo uma experiência otimizada para os usuários que desejam avaliar a qualidade da carne.
+
 ## LEITOR DE QR CODES & PRODUTOS GUARDADOS
 ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/4fe934e5-7ebf-456e-a5de-afc0376c8f3a)
