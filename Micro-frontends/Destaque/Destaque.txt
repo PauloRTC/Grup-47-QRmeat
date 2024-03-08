@@ -1,0 +1,3 @@
+Ao utilizar um micro-frontend para a feature de destaque, é possível personalizar a forma 
+como os produtos são destacados em menus específicos, proporcionando uma exibição flexível e
+adaptada às necessidades de cada contexto.
