@@ -10,6 +10,10 @@ atualizar essas funcionalidades de maneira independente
 Promover o conceito do produto desta APP que é um bem qualitativo referente à melhor escolha de carne para consumo humano de acordo com a sustentabilidade ecologica.
 ## ESTATÍSTICA    &    LISTA DE PRODUTOS 
 ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/e4707219-d5a8-451c-a18c-396f6b739ba4)
+- **ESTATÍSTICA:**
+As estatísticas sobre qualidade do produto, presença de elementos químicos na carne e impacto ambiental podem ter 
+requisitos específicos e complexidades únicas. Ao implementar esta feature como um micro-frontend, é possível colocar 
+uma equipa isolada a tratar dos dados estatisticos de cada produto de maneira independente. Estes podem requerer de operações  de processamento ou manipulação de conjuntos de dados com várias origens, a implementação como um micro-frontend permite escalar e otimizar essa funcionalidade sem interferir nas outras partes da aplicação.
 ## DESTAQUES & GEOLOCALIZAÇÃO
 ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/b08c09a9-c35c-4e84-bf03-46f5d5d5d3a4)
 - **DESTAQUE:**
