@@ -38,3 +38,10 @@ Permite também ajustes personalizados na interface e nas interações do sistem
 
 ## LEITOR DE QR CODES & PRODUTOS GUARDADOS
 ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/4fe934e5-7ebf-456e-a5de-afc0376c8f3a)
+- **LEITOR DE QR CODES:**
+A a leitura de códigos QR envolve a integração com hardware específico, como câmeras, a implementação 
+como um micro-frontend facilita a gestão dessa integração de forma isolada, caso a leitura de códigos 
+QR envolva a integração com serviços externos, a implementação como um micro-frontend facilita a gestão
+dessa integração de forma independente.
+- **PRODUTOS GUARDADOS:**
+Esta micro-frentend pretende que fique entregue a uma equipa mais vocacionada para distribuiçao, entrega e pagamento. Trabalhando de forma independente.
