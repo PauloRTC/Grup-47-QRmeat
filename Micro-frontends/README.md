@@ -6,7 +6,7 @@
 ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/e4707219-d5a8-451c-a18c-396f6b739ba4)
 ## DESTAQUES & GEOLOCALIZAÇÃO
 ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/b08c09a9-c35c-4e84-bf03-46f5d5d5d3a4)
-**DESTAQUE:**
+- **DESTAQUE:**
 Ao utilizar um micro-frontend para a feature de destaque, é possível personalizar a forma 
 como os produtos são destacados em menus específicos, proporcionando uma exibição flexível e
 adaptada às necessidades de cada contexto.
