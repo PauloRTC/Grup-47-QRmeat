@@ -19,7 +19,7 @@ Decidimos adotar uma arquitetura baseada em micro-frontends e o padrão MVVM par
 As razões para esta decisão incluem:
 
 - **Simplicidade:** Cada micro-frontend lida com sua própria lógica, simplificando a base de código.
-- **Responsabilidade Individual: ** Distribuição clara de responsabilidades, melhorando a manutenção.
+- **Responsabilidade Individual:** Distribuição clara de responsabilidades, melhorando a manutenção.
 - **Reutilização:** Possibilidade de reutilizar componentes em diferentes partes da APP.
 - **Implementação Independente:** Capacidade de desenvolver, testar e implantar partes da aplicação de forma independente.
 - **Equipas Autônomas:** Possibilita que diferentes equipas trabalhem em diferentes partes da aplicação sem interferência.
