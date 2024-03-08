@@ -10,6 +10,11 @@
 Ao utilizar um micro-frontend para a feature de destaque, é possível personalizar a forma 
 como os produtos são destacados em menus específicos, proporcionando uma exibição flexível e
 adaptada às necessidades de cada contexto.
+- **GEOLOCALIZAÇÃO:**
+A funcionalidade de geolocalização pode depender de serviços externos, como mapas ou serviços de localização,
+implementar como um micro-frontend facilita a integração e manutenção desta feature. Uma equipa especializadas
+em serviços de mapas e geolocalização podem operar de forma independente, personalizando a a feature de 
+geolocalização de acordo com as necessidades específicas, sem comprometer partes da aplicação.
 ## PRODUTO & FEEDBACK
 ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/d91bd3f0-2c7c-4eb1-a950-0b5b3ea24a53)
 ## LEITOR DE QR CODES & PRODUTOS GUARDADOS
