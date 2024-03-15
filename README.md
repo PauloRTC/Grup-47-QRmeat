@@ -32,7 +32,7 @@ A escolha por micro-frontends e MVVM deve resultar em uma APP mais modular e man
 A gestão do projeto no GitHub permitirá colaboração e acompanhar o progresso de todos os envolvidos. O repositório está estruturado para refletir as diferentes áreas do sistema, permitindo um desenvolvimento e revisão de código organizados.
 
 O controlo de progresso do trabalho será visualizado através de um mapa, facilitando a identificação rápida de qualquer atraso ou problema no projeto.
-![ProgressoTrabalho](https://github.com/PauloRTC/QRmeat/assets/162343860/d3a51146-1ed1-4c59-8fb8-14250328d68b)
+![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/2cfbd231-f814-46c6-b4eb-982918f2d0dc)
 
 ## Detalhes Técnicos dos Micro-frontends
 Cada micro-frontend tem por base os critérios estabelecidos para maximizar a eficiência e eficácia do desenvolvimento:
