@@ -1,2 +1,3 @@
-![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/ca29b09e-b860-4aa6-96e0-50f3fb4307f1)
+![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/985c97ff-5bea-47e5-b658-c36abff58c1c)
+
 
