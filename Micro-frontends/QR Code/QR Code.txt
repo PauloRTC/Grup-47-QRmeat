@@ -1,4 +1,0 @@
-A a leitura de códigos QR envolve a integração com hardware específico, como câmeras, a implementação 
-como um micro-frontend facilita a gestão dessa integração de forma isolada, caso a leitura de códigos 
-QR envolva a integração com serviços externos, a implementação como um micro-frontend facilita a gestão
-dessa integração de forma independente.

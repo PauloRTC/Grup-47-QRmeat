@@ -1,0 +1,4 @@
+A funcionalidade de geolocalização pode depender de serviços externos, como mapas ou serviços de localização,
+implementar como um micro-frontend facilita a integração e manutenção desta feature. Uma equipa especializadas
+em serviços de mapas e geolocalização podem operar de forma independente, personalizando a a feature de 
+geolocalização de acordo com as necessidades específicas, sem comprometer partes da aplicação.

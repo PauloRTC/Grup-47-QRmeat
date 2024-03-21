@@ -1,3 +1,0 @@
-Implementar como um micro-frontend facilita a administração e atualização do catálogo de produtos de forma isolada, 
-sem afetar outras partes da aplicação. Se a lista de produtos requer escalabilidade eficiente, a implementação como
-um micro-frontend permite dimensionar recursos apenas para essa parte da aplicação

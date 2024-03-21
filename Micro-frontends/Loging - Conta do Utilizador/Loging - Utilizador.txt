@@ -1,3 +1,0 @@
-Ao tratar o login e as informações da conta como um micro-frontend, é possível isolar aspectos
-de segurança, como autenticação e gerenciamento de sessões, tornando mais fácil monitorar e 
-atualizar essas funcionalidades de maneira independente
