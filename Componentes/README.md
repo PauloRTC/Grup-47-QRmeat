@@ -1,7 +1,7 @@
 
 [TASK3_Carvalho.pptx](https://github.com/PauloRTC/Grup-47-QRmeat/files/14704334/TASK3_Carvalho.pptx)
 
-# ADR 2: Descrição de todos os componentes no contexto do desenvolvimento da app QR Meat
+# ADR 3: Descrição de todos os componentes no contexto do desenvolvimento da app QR Meat
 
 ## Status
 Proposto
