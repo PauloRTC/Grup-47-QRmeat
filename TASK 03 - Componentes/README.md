@@ -29,3 +29,21 @@ Nesta etapa do desenvolvimento do projeto final da aplicação QR Meat, procurou
 ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/e9326881-046f-422e-a8d6-c97e18c435d5)
 
 ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/162343860/97a57146-edf8-4d58-a564-1d5957101270)
+
+![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/82768310/767ee452-099e-48fc-9a5a-06cb28449cca)
+
+![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/82768310/f51eb308-418c-4694-b8e7-abbe7aa1bcfa)
+
+![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/82768310/8addc409-c96e-4d7d-8d81-6a35d0a05029)
+
+![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/82768310/be806f69-7cad-47e8-ad22-831fbdbeee05)
+
+![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/82768310/cb1ca2a8-e038-453a-b40b-8dcf90588570)
+
+![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/82768310/31688530-993d-4a81-ada8-047ee09a2d78)
+
+
+
+
+
+
