@@ -1,7 +1,7 @@
 
 [TASK4.pptx](https://github.com/PauloRTC/Grup-47-QRmeat/files/14829552/TASK4.pptx)
 
-# ADR 4: Criação do Story Space para a app QRM eat
+# ADR 4: Criação do Story Space para a app QRM Meat
 
 ## Status
 Proposto
