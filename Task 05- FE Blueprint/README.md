@@ -11,7 +11,7 @@ Proposto
 9-4-2024
 
 ## Contexto
-Nesta etapa do desenvolvimento do projeto final da aplicação QR Meat, procurou-se criar uma blue print para toda a aplicação, fazendo se uma ligacao lógica entre as todas as etapas anteriores, conectanto por meio de narretivas todas as histórias e componentes da app.
+Nesta etapa do desenvolvimento do projeto final da aplicação QR Meat, procurou-se criar uma blue print para toda a aplicação, criando uma ligacao lógica entre as todas as etapas anteriores, conectanto por meio de narrativas todas as histórias e componentes da app.
 
 
 
