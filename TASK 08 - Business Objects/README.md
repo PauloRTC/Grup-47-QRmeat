@@ -10,4 +10,5 @@
 | Check out e pagamento² | "/components/schemas/CheckoutRequest"   | "/components/schemas/PaymentResponse"       | `components: { schemas: { CheckoutRequest: { ... }, PaymentResponse: { 200: { description: "Successful transaction" }, 400: { description: "Invalid request" }, 401: { description: "Unauthorized or invalid payment details" }, 500: { description: "Internal Server Error" }, default: { description: "Unexpected error" } } }` |
 
 ¹ Autenticação é considerada um Objeto de Negócio (BO) apenas no contexto promocional, como por exemplo numa campanha que oferece condições especiais a usuários selecionados com base no histórico de compras.
+
 ² A funcionalidade de 'Check out e pagamentos' não está incluída no aplicativo original. A inclusão nesta tabela serve como uma sugestão de melhoria para abordar processos de checkout e pagamento.
