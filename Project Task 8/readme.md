@@ -1,6 +1,3 @@
-# Reconstructing the README.md content based on the provided image.
-# We need to recreate the content because the previous attempt to retrieve the file resulted in an error.
-markdown_readme_content = """
 # PROJECT TASK 8
 
 ## Business Objects Schema
