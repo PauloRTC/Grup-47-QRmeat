@@ -28,7 +28,7 @@ Nesta etapa do desenvolvimento do projeto final da aplicação QR Meat, procurou
 Localização de lojas | Integra-se com serviço de mapas e permite a seleção de lojas para exibir os produtos disponíveis | Compila uma lista de lojas, incluindo detalhes como endereço e disponibilidade de produtos|
 |Serviço de mapas | Oferece visualização de lojas no mapa e suas informações por meio de uma integração de API de mapa.| Armazena dados geográficos e coordenadas das lojas, permite visualizar e interagir com a localização das lojas no mapa|
 |Custo e Guardados | Gere as ações do utilizador no cesto de compras e na lista de produtos guardados, como adicionar ou remover produtos, e no caso do cesto, calcular totais|Armazena numa lista os elementos escolhidos pelo utilizador|
-|Serviço de Checkout e Pagamento 1 |Processa a confirmação dos pedidos e integra com serviços de pagamento para transações monetárias.|Confirma o pedido de acordo com a aprovação recebida com o método de pagamento|
-|Feedback 1| Recebe e cataloga o feedback dos utilizadores sobre os produtos, disponibilizando para consulta e gestão|Armazena a submissão de feadback do utilizador e exibe lista de feedbacks|
+|Serviço de Checkout e Pagamento * |Processa a confirmação dos pedidos e integra com serviços de pagamento para transações monetárias.|Confirma o pedido de acordo com a aprovação recebida com o método de pagamento|
+|Feedback *| Recebe e cataloga o feedback dos utilizadores sobre os produtos, disponibilizando para consulta e gestão|Armazena a submissão de feadback do utilizador e exibe lista de feedbacks|
 
-1 - Novas funcionalidades, não presentes no prótotipo original.
+-* Novas funcionalidades, não presentes no prótotipo original.
