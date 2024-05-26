@@ -1,3 +1,17 @@
+# ADR 8:  Business Objetcs (requests and responses) 
+
+## Status
+Proposto
+
+## Decisores
+- Paulo Carvalho, Estudante Nº: 62688
+- Tiago Ferreira, Estudante Nº: 56963
+
+## Data
+10-05-2024
+
+## Contexto
+Nesta etapa do desenvolvimento do projeto final da aplicação QR Meat, procurou-se defenir os Business objectes da app, os request e responses necessários e um Schema. Voltou-se a tomar liberdade de propor a funcionalidade de compra de carne, não existente no protótipo inicial.
 # PROJECT TASK 8
 
 ## Business Objects
