@@ -15,7 +15,7 @@ Nesta etapa do desenvolvimento do projeto final da aplicação QR Meat, procurou
 
 # PROJECT TASK 6
 
-## Business Objects
+
 
 | BE Services      | Service description                             | Resource description                                                                                                                            
 |------------------------|-----------------------------------------|--------------------------------------------|
