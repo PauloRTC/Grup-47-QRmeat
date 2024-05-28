@@ -16,4 +16,6 @@ Para Vizualização da blueprint por favor descarregue o PowerPoint anexado a se
 
 [APP_blueprint.pptx](https://github.com/PauloRTC/Grup-47-QRmeat/files/15476983/APP_blueprint.pptx)
 
+!!A FE blueprint (TASK05) foi também atualizada, e corrigida com base no feedback dado na ultima entrega!!
+
 ![image](https://github.com/PauloRTC/Grup-47-QRmeat/assets/82768310/331df518-ff15-4aeb-af0b-253ddaf5c3c6)
