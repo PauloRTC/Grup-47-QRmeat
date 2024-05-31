@@ -14,7 +14,9 @@ Proposto
 Nesta etapa final do desenvolvimento do projeto final da aplicação QR Meat, procurou-se desenhar a blueprint final da app, que relacione todos os elementos Back e Front end.
 ## Para Vizualização da blueprint com maxima resolução por favor descarregue o PDF anexado a seguir (visualização que se segue não tem resolução suficiete para leitura):
 
-[APP_blueprint.pptx](https://github.com/user-attachments/files/15517344/APP_blueprint.pptx)
+
+[APP_blueprint.pptx](https://github.com/user-attachments/files/15517376/APP_blueprint.pptx)
+[APP_blueprint.pdf](https://github.com/user-attachments/files/15517375/APP_blueprint.pdf)
 
 
 !!A FE blueprint (TASK05) foi também atualizada, e corrigida com base no feedback dado na ultima entrega!!
